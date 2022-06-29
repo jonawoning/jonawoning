@@ -4,7 +4,7 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,java,php,c#&theme=light)](https://skills.thijs.gg)
 
---> JavaScript, HTML, CSS, Java, PHP and C#.
+--> JavaScript, HTML, CSS, Java, PHP and C#
 -- Some of the languages I am still learning.
 
 ##
