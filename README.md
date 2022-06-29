@@ -9,5 +9,6 @@
 
 ##
 You can contact me in different ways!
-Visit: https://www.jonawoning.nl/contact or simply dm me on discord: Jona#7797
+Visit: https://www.jonawoning.nl/contact
+Or dm me on discord: Jona#7797
 
