@@ -2,7 +2,7 @@
 
 ### Current programming languages:
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,java,php,c#&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,java,php,c#&theme=light)](https://www.jonawoning.nl/about_me)
 
 --> JavaScript, HTML, CSS, Java, PHP and C#
 -- Some of the languages I am still learning.
