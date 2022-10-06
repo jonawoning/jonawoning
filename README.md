@@ -7,8 +7,6 @@
 --> JavaScript, HTML, CSS, Java, PHP and C#
 -- Some of the languages I am still learning.
 
-![](https://komarev.com/ghpvc/?username=jonawoning&color=green) -> Since 06-07-2022
-
 ##
 You can contact me in different ways!
 Visit: https://www.jonawoning.nl/contact <
