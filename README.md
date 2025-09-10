@@ -2,6 +2,8 @@
 
 ### Current programming languages:
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,php,c#)](https://skillicons.dev)
+
 --> JavaScript, HTML, CSS, Java, PHP and C#
 -- Some of the languages I am still learning.
 
