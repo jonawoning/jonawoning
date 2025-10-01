@@ -2,7 +2,7 @@
 
 ### Current programming languages:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,php,python,laravel,c#)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,php,python,laravel,c#,react,typescript)](https://skillicons.dev)
 
 -- Some of the languages I am still learning.
 
